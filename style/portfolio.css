@@ -1,0 +1,50 @@
+.banner img{
+    width: 100vw;
+    margin-top: 100px;
+    padding: 1em 0 0 0;
+}
+
+.banner-direitos-autorais{
+    font-family: var(--fonte-icone);
+    font-weight: 600;
+    color: var(--azul-banner);
+    font-size: 6px;
+    padding-left: 30em;
+}
+
+.portfolio-titulo{
+    padding: 1em;
+    font-size: 2rem;
+    line-height: 2rem;
+    font-weight: 800;
+}
+
+.container_portfolio-texto{   
+    padding:  0  .5em;
+    line-height: 1.5;
+    text-indent: 20px;
+    margin-bottom: 20px;
+    
+    
+}
+
+/* Card */
+
+
+
+.botao-cor-especial {
+    background-color: var( --cor-laranja);
+    color: white;
+    padding: .5em 3em;
+    
+}
+
+.borda-cor-especial {
+    border-color: var(--cor-azul-escruro);
+}
+
+.card-posicao-imagem{
+    object-fit: cover;  /* preserva a proporção*/
+    height: 110vw;
+    padding: .5em;
+}

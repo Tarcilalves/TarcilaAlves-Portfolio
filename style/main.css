@@ -1,11 +1,13 @@
 @import url("../style/home.css");
 @import url("../style/footer.css");
 @import url("../style/sobre.css");
+@import url("../style/portfolio.css");
 :root{
     --cor-fundo-principal: #F5F5F5;
     --cor-branco: #FFFFFF;
     --cor-azul-escuro: #1C5676;
     --cor-azulVerde-icone: #A4CACF;
+    --azul-banner: #91B3F8;
     --cor-rosa: #D36FB1;
     --cor-cinza-escuro: #343738;
     --cor-laranja: #E46509;
@@ -17,7 +19,7 @@
 body{
     background-color: var(--cor-fundo-principal);
     font-family: var(--fonte-primcipal);
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 400;
     color: var(--cor-cinza-escuro);
 }

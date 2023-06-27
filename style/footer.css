@@ -1,0 +1,37 @@
+.rodape{
+    margin-top: 3em;
+    
+}
+
+.rodape-link-midia_sociais{
+    margin-bottom: 2em;
+}
+
+.icon-link_redes-sociais{
+    display: flex;
+    justify-content: center;
+   
+    
+    
+}
+.imagem_midia-social{
+    margin: .5em;
+}
+
+.copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--cor-cinza-escuro);
+    padding-bottom: .5em;
+}
+
+.texto_copyright{
+    font-weight: 700;
+    color: var(--cor-cinza-escuro);
+    font-family: 'Roboto', sans-serif;
+    font-size: .5rem;
+    padding-left: .5em;
+    
+    
+}

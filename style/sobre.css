@@ -1,0 +1,40 @@
+.sobre_mim-imagem{
+    width: 80vw;
+    margin-top: 100px;
+   padding: 2em 1em 1em 1em;
+}
+
+.sobre_mim-titulo{
+    font-size: 48px;
+    font-weight: 900;
+    padding: 1em .5em;
+    color: var(--cor-azul-escuro);
+}
+
+.sobre_mim-texto{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.5;
+    text-indent: 20px;
+    margin-bottom: 20px;
+    padding: 0 1em;
+    
+}
+
+.saiba_mais{
+    margin: 25vw;
+    
+    
+}
+
+.saiba_mais-paragrafoDestaque{
+    font-size: 24px;
+    font-weight: 800;
+    padding: 1em;
+}
+
+.saiba-mais-imagemIcon{
+    width: 40vw;
+    padding: .5em;
+}
+

@@ -1,0 +1,72 @@
+.logotipo-nav{
+    display: flex;  
+    justify-content: space-around;  
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+    padding: 1em 0;
+    background-color: var(--cor-fundo-principal);
+    border-bottom: .2em solid var(--cor-branco);
+   
+    
+    
+   
+}
+
+.container-logotipo{
+    width: 60vw;   
+    
+    
+}
+
+.container-home{
+     
+    margin-right: 0.5em;
+}
+
+.container-home a {
+    width: 12vw;
+   
+}
+
+
+hr{
+    margin: 0;
+    
+}
+/* menu de navegação*/
+
+.nav-link-navegacao{ /* pai*/
+  padding-top: 1em;
+  padding-left: 1.5em; 
+  margin-top: 100px 
+  
+}
+
+.container-linkNav{ /* filho*/
+ display: flex;
+ align-items: center;
+ 
+ margin: 2em 0;   
+    
+}
+
+.Nav-link{
+    text-decoration: none;
+}
+.icon-link{
+    width: 40vw;
+ 
+}
+
+.nav-texto{
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: var(--cor-azul-escuro);
+    padding-left: 1em;
+    
+    
+}

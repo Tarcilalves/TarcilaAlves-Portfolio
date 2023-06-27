@@ -1,0 +1,23 @@
+@import url("../style/home.css");
+@import url("../style/footer.css");
+@import url("../style/sobre.css");
+:root{
+    --cor-fundo-principal: #F5F5F5;
+    --cor-branco: #FFFFFF;
+    --cor-azul-escuro: #1C5676;
+    --cor-azulVerde-icone: #A4CACF;
+    --cor-rosa: #D36FB1;
+    --cor-cinza-escuro: #343738;
+    --cor-laranja: #E46509;
+    --fonte-primcipal: "Roboto Slab', serif";
+    --fonte-icone: "Roboto', sans-serif";
+
+}
+
+body{
+    background-color: var(--cor-fundo-principal);
+    font-family: var(--fonte-primcipal);
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: var(--cor-cinza-escuro);
+}
